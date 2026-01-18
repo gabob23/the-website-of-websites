@@ -8,6 +8,15 @@
       "vercelUrl": "https://schengen-tax-residency-calculator.vercel.app",
       "status": "running",
       "createdAt": "2026-01-18T22:00:00.000Z"
+    },
+    {
+      "id": "1737237000000",
+      "name": "VIVES Photography Collective",
+      "description": "Contemporary photography collective website featuring three independent curators and their exhibition projects",
+      "githubUrl": "https://github.com/gabob23/vives",
+      "vercelUrl": "https://vives-rho.vercel.app",
+      "status": "running",
+      "createdAt": "2026-01-18T22:10:00.000Z"
     }
   ]
 }
