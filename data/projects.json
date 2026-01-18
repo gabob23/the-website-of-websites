@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": "1737236400000",
+      "name": "Schengen Tax & Residency Calculator",
+      "description": "Calculate Schengen visa days and tax residency status across multiple countries",
+      "githubUrl": "https://github.com/gabob23/schengen-tax-residency-calculator",
+      "vercelUrl": "https://schengen-tax-residency-calculator.vercel.app",
+      "status": "running",
+      "createdAt": "2026-01-18T22:00:00.000Z"
+    }
+  ]
+}
